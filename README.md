@@ -1,2 +1,2 @@
-# F95zoneRssReader
+# F95zoneApiRssReader
 I'm gonna fail with this...
